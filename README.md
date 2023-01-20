@@ -1,4 +1,4 @@
-# Machine-Learning-Projects
+# Machine-Learning-Project
 
 ## Machine Learning Project to predict whether a car bought at an auction is a good or bad buy
 
