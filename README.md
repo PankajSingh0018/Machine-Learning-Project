@@ -11,6 +11,6 @@ Performed EDA and brings insights from the dataset, performed data imputation an
 
 Trained Logistic Regression, Decision Tree and Random Forest Models using Scikit-Learn library.
 
-Submitted the results and achieved the score within the top 25% on the competition leaderboard.
+Submitted the results and achieved secured position in top 25% on the competition leaderboard.
 
 
